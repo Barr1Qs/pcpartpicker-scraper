@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Scraper output & browser session data
+pcpartpicker_data/
+browser_profile/
+scraper_state.json
+*.jsonl
+*.csv
+*.log
+
+# VS Code / IDE
+.vscode/
+.idea/
